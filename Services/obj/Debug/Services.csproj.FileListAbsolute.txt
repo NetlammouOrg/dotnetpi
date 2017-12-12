@@ -1,0 +1,17 @@
+C:\Users\esprit\documents\visual studio 2015\Projects\PidevMVC\Services\bin\Debug\Services.dll
+C:\Users\esprit\documents\visual studio 2015\Projects\PidevMVC\Services\bin\Debug\Services.pdb
+C:\Users\esprit\documents\visual studio 2015\Projects\PidevMVC\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\Users\esprit\documents\visual studio 2015\Projects\PidevMVC\Services\obj\Debug\Services.dll
+C:\Users\esprit\documents\visual studio 2015\Projects\PidevMVC\Services\obj\Debug\Services.pdb
+C:\Users\esprit\documents\visual studio 2015\Projects\PidevMVC\Services\bin\Debug\itextsharp.dll
+C:\Users\esprit\documents\visual studio 2015\Projects\PidevMVC\Services\bin\Debug\itextsharp.xml
+C:\Users\esprit\documents\visual studio 2015\Projects\PidevMVC\Services\bin\Debug\Data.dll
+C:\Users\esprit\documents\visual studio 2015\Projects\PidevMVC\Services\bin\Debug\Domain.dll
+C:\Users\esprit\documents\visual studio 2015\Projects\PidevMVC\Services\bin\Debug\ServicePattern.dll
+C:\Users\esprit\documents\visual studio 2015\Projects\PidevMVC\Services\bin\Debug\EntityFramework.dll
+C:\Users\esprit\documents\visual studio 2015\Projects\PidevMVC\Services\bin\Debug\Data.pdb
+C:\Users\esprit\documents\visual studio 2015\Projects\PidevMVC\Services\bin\Debug\Domain.pdb
+C:\Users\esprit\documents\visual studio 2015\Projects\PidevMVC\Services\bin\Debug\ServicePattern.pdb
+C:\Users\esprit\documents\visual studio 2015\Projects\PidevMVC\Services\bin\Debug\EntityFramework.xml
+C:\Users\esprit\documents\visual studio 2015\Projects\PidevMVC\Services\bin\Debug\RestSharp.dll
+C:\Users\esprit\documents\visual studio 2015\Projects\PidevMVC\Services\bin\Debug\RestSharp.xml
