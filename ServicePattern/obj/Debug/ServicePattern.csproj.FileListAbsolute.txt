@@ -1,0 +1,15 @@
+C:\Users\esprit\documents\visual studio 2015\Projects\PidevMVC\ServicePattern\bin\Debug\ServicePattern.dll
+C:\Users\esprit\documents\visual studio 2015\Projects\PidevMVC\ServicePattern\bin\Debug\ServicePattern.pdb
+C:\Users\esprit\documents\visual studio 2015\Projects\PidevMVC\ServicePattern\obj\Debug\ServicePattern.dll
+C:\Users\esprit\documents\visual studio 2015\Projects\PidevMVC\ServicePattern\obj\Debug\ServicePattern.pdb
+C:\Users\esprit\documents\visual studio 2015\Projects\PidevMVC\ServicePattern\bin\Debug\itextsharp.dll
+C:\Users\esprit\documents\visual studio 2015\Projects\PidevMVC\ServicePattern\bin\Debug\itextsharp.xml
+C:\Users\esprit\documents\visual studio 2015\Projects\PidevMVC\ServicePattern\obj\Debug\ServicePattern.csprojResolveAssemblyReference.cache
+C:\Users\esprit\documents\visual studio 2015\Projects\PidevMVC\ServicePattern\bin\Debug\Data.dll
+C:\Users\esprit\documents\visual studio 2015\Projects\PidevMVC\ServicePattern\bin\Debug\EntityFramework.dll
+C:\Users\esprit\documents\visual studio 2015\Projects\PidevMVC\ServicePattern\bin\Debug\Domain.dll
+C:\Users\esprit\documents\visual studio 2015\Projects\PidevMVC\ServicePattern\bin\Debug\Data.pdb
+C:\Users\esprit\documents\visual studio 2015\Projects\PidevMVC\ServicePattern\bin\Debug\EntityFramework.xml
+C:\Users\esprit\documents\visual studio 2015\Projects\PidevMVC\ServicePattern\bin\Debug\Domain.pdb
+C:\Users\esprit\documents\visual studio 2015\Projects\PidevMVC\ServicePattern\bin\Debug\RestSharp.dll
+C:\Users\esprit\documents\visual studio 2015\Projects\PidevMVC\ServicePattern\bin\Debug\RestSharp.xml

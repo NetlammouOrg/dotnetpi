@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="netlammouModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="article">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="body" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="date" Type="DateTime" />
+    <Property Name="favourite" Type="Boolean" Nullable="false" />
+    <Property Name="image" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="name" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="other" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="user_id" Type="Int32" />
+    <NavigationProperty Name="user" Relationship="Self.FK_b3tb1l9l19i2tfsf6o6a4hifx" FromRole="article" ToRole="user" />
+  </EntityType>
+  <EntityType Name="user">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="DTYPE" Type="String" MaxLength="31" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="adress" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="mailAdress" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="passWodrd" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="phoneNumber" Type="Int32" Nullable="false" />
+    <Property Name="Description" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="name" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="age" Type="Int32" />
+    <Property Name="firstName" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="lastName" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="potential" Type="Boolean" />
+    <Property Name="role" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="article" Relationship="Self.FK_b3tb1l9l19i2tfsf6o6a4hifx" FromRole="user" ToRole="article" />
+  </EntityType>
+  <Association Name="FK_b3tb1l9l19i2tfsf6o6a4hifx">
+    <End Role="user" Type="Self.user" Multiplicity="0..1" />
+    <End Role="article" Type="Self.article" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="user">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="article">
+        <PropertyRef Name="user_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="netlammouEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="article" EntityType="Self.article" />
+    <EntitySet Name="user" EntityType="Self.user" />
+    <AssociationSet Name="FK_b3tb1l9l19i2tfsf6o6a4hifx" Association="Self.FK_b3tb1l9l19i2tfsf6o6a4hifx">
+      <End Role="user" EntitySet="user" />
+      <End Role="article" EntitySet="article" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

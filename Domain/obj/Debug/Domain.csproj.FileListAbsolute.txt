@@ -1,0 +1,16 @@
+C:\Users\esprit\documents\visual studio 2015\Projects\PidevMVC\Domain\bin\Debug\Domain.dll.config
+C:\Users\esprit\documents\visual studio 2015\Projects\PidevMVC\Domain\bin\Debug\Domain.dll
+C:\Users\esprit\documents\visual studio 2015\Projects\PidevMVC\Domain\bin\Debug\Domain.pdb
+C:\Users\esprit\documents\visual studio 2015\Projects\PidevMVC\Domain\bin\Debug\EntityFramework.dll
+C:\Users\esprit\documents\visual studio 2015\Projects\PidevMVC\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\esprit\documents\visual studio 2015\Projects\PidevMVC\Domain\bin\Debug\MySql.Data.dll
+C:\Users\esprit\documents\visual studio 2015\Projects\PidevMVC\Domain\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\esprit\documents\visual studio 2015\Projects\PidevMVC\Domain\bin\Debug\EntityFramework.xml
+C:\Users\esprit\documents\visual studio 2015\Projects\PidevMVC\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\esprit\documents\visual studio 2015\Projects\PidevMVC\Domain\obj\Debug\Domain.dll
+C:\Users\esprit\documents\visual studio 2015\Projects\PidevMVC\Domain\obj\Debug\Domain.pdb
+C:\Users\esprit\documents\visual studio 2015\Projects\PidevMVC\Domain\bin\Debug\itextsharp.dll
+C:\Users\esprit\documents\visual studio 2015\Projects\PidevMVC\Domain\bin\Debug\itextsharp.xml
+C:\Users\esprit\documents\visual studio 2015\Projects\PidevMVC\Domain\bin\Debug\RestSharp.dll
+C:\Users\esprit\documents\visual studio 2015\Projects\PidevMVC\Domain\bin\Debug\RestSharp.xml
+C:\Users\esprit\documents\visual studio 2015\Projects\PidevMVC\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
